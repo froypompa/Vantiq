@@ -1,2 +1,2 @@
 # Vantiq
-Code for Vantiq projects
+Code for Vantiq projects in javascript and VAIL
